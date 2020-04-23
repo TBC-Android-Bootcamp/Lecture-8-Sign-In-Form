@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lecture8Homework</string>
+    <string name="sign_in">Sign In</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_password">Your Password</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login">Login</string>
+    <string name="forgot_your_password">forgot your password?</string>
+    <string name="or_connect_with">or connect with:</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="facebook">facebook</string>
+    <string name="twitter">twitter</string>
+    <string name="header">Sign In</string>
+    <string name="account">Don\'t have account?</string>
+</resources>
